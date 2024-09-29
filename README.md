@@ -1,5 +1,5 @@
 # Analysis-of-Deep-Learning-Models-in-Cauliflower-Disease-Detection
-Comparative Analysis of Deep Learning Algorithms for Disease Detection in Cauliflower Images
+##Comparative Analysis of Deep Learning Algorithms for Disease Detection in Cauliflower Images
 
 This project is a comparative analysis of various deep learning algorithms, including ResNet50, VGG16, Inception V3, and a custom model. The aim is to detect diseases in cauliflower images. The entire project is implemented in a Jupyter notebook (.ipynb file) using Kaggle's notebook environment.
 
